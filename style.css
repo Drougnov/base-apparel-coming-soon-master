@@ -6,7 +6,8 @@
 }
 body {
   display: grid;
-  grid-template-columns: 1.5fr 1fr;
+  background:hsl(0, 100%, 98%);
+  grid-template-columns: 1.4fr 1fr;
   grid-template-rows: auto 1fr;
   min-height: 100vh;
   font-family: "Josefin Sans", sans-serif;
