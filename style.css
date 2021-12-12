@@ -36,6 +36,9 @@ aside img {
   width: 100%;
   height: 100%;
 }
+aside #hero-mobile {
+  display: none;
+}
 /* --------------------------------------text-content--------------------------------------------- */
 .text-content h1 {
   font-size: 4rem;
@@ -131,6 +134,12 @@ footer {
   aside img {
     max-height: 100%;
     max-width: 100%;
+  }
+  aside #hero-desktop {
+    display: none;
+  }
+  aside #hero-mobile {
+    display: block;
   }
   main {
     margin-top: 5rem;
