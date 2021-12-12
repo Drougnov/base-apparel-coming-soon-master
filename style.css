@@ -6,8 +6,12 @@
 }
 body {
   display: grid;
+<<<<<<< HEAD
   background: url(./images/bg-pattern-desktop.svg) no-repeat;
   background-size: contain;
+=======
+  background:hsl(0, 100%, 98%);
+>>>>>>> 406213296e35a5821e11209f2a84475e8f0a4071
   grid-template-columns: 1.4fr 1fr;
   grid-template-rows: auto 1fr;
   min-height: 100vh;
